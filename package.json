@@ -1,6 +1,6 @@
 {
   "name": "@zafron/myelin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "translation infra that sparks joy",
   "main": "index.js",
   "bin": {
