@@ -1,10 +1,10 @@
 {
   "name": "@zafron/myelin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "translation infra that sparks joy",
   "main": "index.js",
   "bin": {
-    "myelin": "dist/index.js"
+    "@zafron/myelin": "dist/index.js"
   },
   "scripts": {
     "build": "npx tsc"

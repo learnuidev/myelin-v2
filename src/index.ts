@@ -1,3 +1,3 @@
 import { add } from "./math";
 
-console.log("hello math", add(4, 5));
+console.log("hello math 123", add(4, 5));
